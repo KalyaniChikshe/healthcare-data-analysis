@@ -1,4 +1,4 @@
-# 🏥 Healthcare Data Analysis
+# Healthcare Data Analysis
 
 Exploratory Data Analysis (EDA) on synthetic healthcare data to uncover trends in diseases, demographics, and insurance patterns.  
 
@@ -6,19 +6,19 @@ Exploratory Data Analysis (EDA) on synthetic healthcare data to uncover trends i
 
 ---
 
-### 📓 Notebook
+### Notebook
 - [View Notebook on GitHub](notebooks/healthcare_data_analysis.ipynb)  
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KalyaniChikshe/healthcare-data-analysis/blob/main/notebooks/healthcare_data_analysis.ipynb)
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 **Languages/Libraries:** Python, Pandas, NumPy, Matplotlib, Plotly, scikit-learn  
 **Concepts:** Exploratory Data Analysis (EDA), Data Cleaning, Data Visualization, Demographic Analysis, Insurance Insights  
 
 ---
 
-### 📊 Methods
+### Methods
 - **Data Cleaning:** handled missing values, standardized categorical variables  
 - **Exploratory Analysis:** disease prevalence, patient demographics, insurance coverage patterns  
 - **Visualizations:** bar charts, histograms, and trend plots using Matplotlib & Plotly  
@@ -26,7 +26,7 @@ Exploratory Data Analysis (EDA) on synthetic healthcare data to uncover trends i
 
 ---
 
-### ✅ Results
+### Results
 - Disease trends across age groups and genders  
 - Demographic breakdowns of patient populations  
 - Insurance coverage patterns by group  
@@ -34,7 +34,7 @@ Exploratory Data Analysis (EDA) on synthetic healthcare data to uncover trends i
 
 ---
 
-## 🧑‍💻 Role
+## Role
 Team project.  
 - Contributed to data cleaning and exploratory data analysis  
 - Built visualizations for disease trends, demographics, and insurance patterns  
@@ -43,7 +43,7 @@ Team project.
 
 ---
 
-## ▶️ How to Run (Locally)
+## How to Run (Locally)
 ```bash
 git clone https://github.com/KalyaniChikshe/healthcare-data-analysis.git
 cd healthcare-data-analysis
